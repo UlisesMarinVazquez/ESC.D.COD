@@ -3,10 +3,12 @@
     
 }
 p:not(#centro3){
+    font-weight: bold;
     color: white;
     font-family: arial;
-    font-weight: bold;
+    
 }
+
 
 
 .video{
@@ -19,6 +21,9 @@ p:not(#centro3){
     z-index: -1;
     filter: brightness(0.6);
 }
+
+
+
 .menu{
     width: 30px;
     height: 20px;
@@ -27,25 +32,33 @@ p:not(#centro3){
     left: 1225px;
     top: 55px;
 }
+
+
 .principal{
     font-size: 20px;
     position: absolute;
     top: 55px;
     left: 90px;
 }
-.centro1{
+
+
+.Centro1{
     font-size: 65px;
     position: absolute;
     top: 245px;
     left: 90px;
 }
-.centro2{
+
+
+.Centro2{
     font-size: 51px;
 position: absolute;
 top: 310px;
 left: 90px;
 }
-#centro3{
+
+
+#Centro3{
     color: white;
     font-family: arial;
     font-size: 17px;
@@ -53,6 +66,8 @@ left: 90px;
     top: 390px;
     left: 90px;
 }
+
+
 .boton{
     background-color: white;
     color: black;
@@ -66,15 +81,22 @@ left: 90px;
     top: 440px;
     left: 90px;
 }
+
+
 .boton:hover{
     background-color: black;
     color: white;
 }
+
+
 .boton:active{
     background-color: royalblue;
     color: white;
 }
-.facebook{
+
+
+
+.Facebook{
     filter: brightness(0) invert(1);
     width: 20px;
     height: 20px;
@@ -83,7 +105,9 @@ left: 90px;
     top: 600px;
     left: 90px;
 }
-.twitter{
+
+
+.Twitter{
     filter: brightness(0) invert(1); 
     width: 20px;
     height: 20px;
@@ -92,7 +116,10 @@ left: 90px;
     top: 600px;
     left: 120px;
 }
-.instagram{
+
+
+
+.Instagram{
     filter: brightness(0) invert(1);
     width: 20px;
     height: 20px;
