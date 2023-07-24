@@ -1,0 +1,58 @@
+
+
+
+                                I. Introducción a las bases de datos.
+
+
+Sistema de información.
+
+Es un conjunto de elementos orientados al tratamiento y administracción de datos e información. Organizados listos para su posterior uso.
+
+
+SGBD Sistema gestor de datos.
+
+    Consiste en una colección de datos interrelacionados y un conjunto de programas para acceder a dichos datos. 
+
+DBA. Administrador de base de datos.
+    
+    1. Funciones de un DBA. Asegurar el buen funcionamiento de las bases de datos.
+    2. Retención de la base de datos.
+    3. Evitar pérdidas de datos.
+    4. Solucionar incidencias y pérdidas de los datos.
+    5. Pririozar la seguridad de los datos.
+
+    Evitar problemas de integridad.
+    Problemas de atomicidad. (Atomicidad, problemas físicos).
+    Redundancia. 
+    Inconsistencia.
+
+
+Base de datos relaciones.
+
+Es un tipo de datos que almacenan y proporciona accesos a puntos de datos relaciones entre sí.
+Directamente representa 
+
+
+
+
+
+
+II. Modelo Entidad de Relación.
+
+
+
+
+
+III. SQL.
+
+IV. Almacen de datos.
+
+V. Software de diseño de base da datos.
+
+VI. Funciones SQL.
+
+VII. Triggers.
+
+VIII. Consultas en SQL.
+
+
