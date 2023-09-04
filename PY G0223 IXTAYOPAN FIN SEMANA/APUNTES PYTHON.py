@@ -64,3 +64,13 @@ suma0 = numero_10 + numero_20
 print(suma0)
 
 
+""" --------------------- """
+
+numero=2
+producto_1=0.1
+producto_2=0.1
+producto_3=0.1
+
+total = producto_1 + producto_2 + producto_3
+
+print(total)
